@@ -33,6 +33,12 @@ A simple HTML5 mobile browser game prototype where you control a stickman archer
 8.  **Game Over:** The game ends when you run out of arrows. Your final score is displayed along with the leaderboard.
 9.  **Restart:** Click the "Play Again" button on the game over screen.
 
+## Demo & Screenshots
+
+[AI-Stickman-Archer](https://ai-stickman-archer.talkingsource.com/)
+
+![Screenshot](/doc/screenshot-ai-stickman-archer.png)
+
 ## File Structure
 
 ```
@@ -52,14 +58,6 @@ ai-stickman-archer/
 ├── .gitignore              # Specifies intentionally untracked files that Git should ignore
 └── LICENSE                 # Contains the ISC license text
 ```
-
-## Screenshots
-
-![Screenshot](/doc/screenshot-ai-stickman-archer.png)
-
-## License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
