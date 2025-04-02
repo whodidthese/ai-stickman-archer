@@ -35,7 +35,7 @@ A simple HTML5 mobile browser game prototype where you control a stickman archer
 
 ## Demo & Screenshots
 
-[AI-Stickman-Archer](https://ai-stickman-archer.talkingsource.com/)
+**Play Demo: [AI-Stickman-Archer](https://ai-stickman-archer.talkingsource.com/)**
 
 ![Screenshot](/doc/screenshot-ai-stickman-archer.png)
 
